@@ -1,0 +1,8 @@
+isEnabled: true
+menuName: ''
+playerItem:
+  material: DIAMOND_SWORD
+playerItemSlot: 6
+spectatorItem:
+  material: SPYGLASS
+spectatorItemSlot: 2

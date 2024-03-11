@@ -1,0 +1,85 @@
+worlds:
+  world:
+    worldborder: 5.9999968E7
+    seed: -1460833092309570761
+    environment: NORMAL
+    name: world
+    info: -/-
+    difficulty: EASY
+    mohist: false
+  DIM1:
+    worldborder: 1500.0
+  DIM-1:
+    worldborder: 1500.0
+  witp:
+    worldborder: 1.0E7
+  em_adventurers_guild:
+    worldborder: 5.9999968E7
+  twilight_forest:
+    worldborder: 1500.0
+    ismods: true
+    modName: twilightforest
+  dungeon:
+    worldborder: 1500.0
+    ismods: true
+    modName: mmorpg
+  glacio_orbit:
+    worldborder: 1500.0
+    ismods: true
+    modName: ad_astra
+  venus_orbit:
+    worldborder: 1500.0
+    ismods: true
+    modName: ad_astra
+  the_aether:
+    worldborder: 1500.0
+    ismods: true
+    modName: aether
+  glacio:
+    worldborder: 1500.0
+    ismods: true
+    modName: ad_astra
+  past:
+    worldborder: 1500.0
+    ismods: true
+    modName: graveyard
+  bowels:
+    worldborder: 1500.0
+    ismods: true
+    modName: witherstormmod
+  moon_orbit:
+    worldborder: 1500.0
+    ismods: true
+    modName: ad_astra
+  mercury:
+    worldborder: 1500.0
+    ismods: true
+    modName: ad_astra
+  mercury_orbit:
+    worldborder: 1500.0
+    ismods: true
+    modName: ad_astra
+  earth_orbit:
+    worldborder: 1500.0
+    ismods: true
+    modName: ad_astra
+  mars_orbit:
+    worldborder: 1500.0
+    ismods: true
+    modName: ad_astra
+  doom_hell:
+    worldborder: 1500.0
+    ismods: true
+    modName: doom
+  moon:
+    worldborder: 1500.0
+    ismods: true
+    modName: ad_astra
+  mars:
+    worldborder: 1500.0
+    ismods: true
+    modName: ad_astra
+  venus:
+    worldborder: 1500.0
+    ismods: true
+    modName: ad_astra

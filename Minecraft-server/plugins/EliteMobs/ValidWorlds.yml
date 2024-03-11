@@ -1,0 +1,31 @@
+# Sets the list of zone-based worlds.
+# THE ZONE-BASED GAME MODE IS OUTDATED AND WILL SOON BE REMOVED!
+zoneBasedWorlds: []
+# Sets the list of nightmare mode worlds.
+# Nightmare mode worlds are a game mode where days are shorter and players can not sleep.
+# Nightmare worlds also have higher amounts of elite spawns.
+# https://github.com/MagmaGuy/EliteMobs/wiki/%5BGame-Mode%5D-Nightmare-mode
+nightmareWorlds: []
+Valid worlds:
+  the_aether: true
+  mercury_orbit: true
+  mars_orbit: true
+  glacio: true
+  past: true
+  venus_orbit: true
+  mercury: true
+  mars: true
+  bowels: true
+  dungeon: true
+  moon: true
+  doom_hell: true
+  moon_orbit: true
+  venus: true
+  glacio_orbit: true
+  earth_orbit: true
+  twilight_forest: true
+  em_adventurers_guild: true
+  world: true
+  DIM1: true
+  DIM-1: true
+  witp: true
